@@ -23,4 +23,3 @@ MS Information Systems @ NYU Stern & Courant (AI/ML) · Agentic AI Intern @ GEP 
 📫 [LinkedIn] 
 
 *"Move fast, remember everything."*
-** with no power comes no responsibility **
